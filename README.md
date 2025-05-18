@@ -1,0 +1,2 @@
+# Mnist-Fashion-Data-Set
+Fashion MNIST is a dataset of grayscale images of clothing items, created by Zalando Research. It consists of 70,000 images of size 28×28 pixels, divided into 60,000 training and 10,000 test samples. Each image represents a fashion product from one of 10 categories, such as T-shirt/top, trouser, dress, and sneaker. The dataset is designed as a more challenging and realistic alternative to the original MNIST digit dataset and is widely used for benchmarking machine learning models in image classification tasks
